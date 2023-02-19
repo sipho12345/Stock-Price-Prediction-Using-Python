@@ -12,6 +12,8 @@ Steps followed to achieve results:
   - The linear Regression Model achieved superior results of more than 90% accuracy to beat LSTM model.
   
 
+#Data
+<img width="1137" alt="Screenshot 2023-02-19 at 17 24 14" src="https://user-images.githubusercontent.com/61363539/219957786-19583ca3-398b-484e-b07f-04874d71bc9b.png">
 
 #Historical Performance for AAPL
 <img width="855" alt="Screenshot 2023-02-19 at 11 09 26" src="https://user-images.githubusercontent.com/61363539/219939163-58df4f00-006c-439f-9ce2-57d5e5ee1dd2.png">
