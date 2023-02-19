@@ -1,6 +1,6 @@
 # Stock-Price-Prediction-Using-Python
 This File can be opened by jupytar Notebook or Google Collab.
-The project aimed at comparing two Machine Learning models, Long Short-Term Memory(LSTM) and Linear Regression model(OLS)  
+The project is aimed at comparing two Machine Learning models, Long Short-Term Memory(LSTM) and Linear Regression model(OLS)  
 Steps followed to achieve results:
   - In this Project we extract closing prices data of a particular stock from Yahoo Finance APIs using Python.
   - Used data from 1 January 2020 for AAPL stock.   
