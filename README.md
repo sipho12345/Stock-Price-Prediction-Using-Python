@@ -9,4 +9,4 @@ Steps followed to achieve results:
   - Used Data Visualization Graphs show historical perfomance of stocks.
   - I used the data to train/test the two models on a 70/30 percent data splits for both LSTM and Linear Regression Models.
   - The result for both models were impressive in predicting the stock price and the trends the stocks follows.
-  - The linear Regression Model achieved superior results of more than 90% to beat LSTM model.
+  - The linear Regression Model achieved superior results of more than 90% accuracy to beat LSTM model.
