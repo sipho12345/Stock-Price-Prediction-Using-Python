@@ -38,3 +38,6 @@ Data Science Process:
  -LSTM Algorithm Prediction Results
 <img width="928" alt="Screenshot 2023-02-19 at 11 16 54" src="https://user-images.githubusercontent.com/61363539/219939502-d7146b83-66ed-49a4-9c10-cf0951159bcf.png">
 
+-Share Insights
+
+
