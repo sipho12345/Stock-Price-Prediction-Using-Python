@@ -12,7 +12,8 @@ Steps followed to achieve results:
   - The linear Regression Model achieved superior results of more than 90% accuracy to beat LSTM model.
   
 # Data Science Process: 
-- Data Collection And Storage
+
+# Data Collection And Storage
 <img width="1140" alt="Screenshot 2023-02-21 at 09 31 10" src="https://user-images.githubusercontent.com/61363539/220277667-da0dc7ad-b4fd-4d75-8365-760abc82a4c9.png">
 
 
