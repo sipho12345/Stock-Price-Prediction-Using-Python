@@ -41,5 +41,4 @@ Steps followed to achieve results:
 
 # Share Insights:
 - From the amount of data used, the Linear Regression model had a superior performance compared to LSTM model.
-- If we were to increase the layers of LSTM and the amount of data used, LSTM performance would improve.
 
