@@ -40,5 +40,6 @@ Steps followed to achieve results:
 <img width="928" alt="Screenshot 2023-02-19 at 11 16 54" src="https://user-images.githubusercontent.com/61363539/219939502-d7146b83-66ed-49a4-9c10-cf0951159bcf.png">
 
 # Share Insights:
-
+- From the amount of data used, the Linear Regression model had a superior performance compared to LSTM model.
+- If we were to increase the layers of LSTM and the amount of data used, LSTM performance would improve.
 
