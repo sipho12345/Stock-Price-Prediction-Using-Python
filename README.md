@@ -41,5 +41,5 @@ Steps followed to achieve results:
 
 # Share Insights:
 - From the amount of data used, the Linear Regression model had a superior performance compared to LSTM model.
-- The Linear Regression Predictive score is 0.917 or 91.7%
+- The Linear Regression Predictive score is 0.917 or 91.7%.
 
